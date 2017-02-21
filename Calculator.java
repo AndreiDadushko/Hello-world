@@ -19,7 +19,7 @@ public class Calculator
         JFrame frame = new JFrame();
         frame.setTitle("Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+        int y=1;
         JPanel panelFields =new JPanel(); //Panel that will be contain fields for input data, result and names for these fields
         JPanel panelLabels =new JPanel(); //Panel that will be contain names for fields of input data and result
         panelLabels.setLayout(new BoxLayout(panelLabels,BoxLayout.Y_AXIS));
