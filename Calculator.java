@@ -55,7 +55,7 @@ public class Calculator
                 }
             }
         });
-//Neogidani cament
+//A ter cherez SourceTree
         valueY.setText("0");
         result=new JLabel(" ");
         panelLabels.add(labelX);
