@@ -55,6 +55,7 @@ public class Calculator
                 }
             }
         });
+//Neogidani cament
         valueY.setText("0");
         result=new JLabel(" ");
         panelLabels.add(labelX);
